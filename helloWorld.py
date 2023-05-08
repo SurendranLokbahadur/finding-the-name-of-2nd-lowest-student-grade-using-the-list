@@ -1,3 +1,3 @@
 
-print("Hellow World")
+print("Git is Awesome!")
 print()
